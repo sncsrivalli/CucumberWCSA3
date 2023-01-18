@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.167">
+    <testcase classname="Organization" name="Create Organization" time="21.89">
+        <system-out><![CDATA[Given Launch browser and enter Vtiger CRM url...............................passed
+And Login to Vtiger CRM application.........................................passed
+When User clicks on Organization tab........................................passed
+And Clicks on Plus button...................................................passed
+And Enters name and industry and clicks on save button......................passed
+Then New Organization Info page is displayed................................passed
+When User click on organizations link.......................................passed
+Then New organization appears on the list...................................passed
+And User logs out of the application and closes the browser.................passed
+]]></system-out>
+    </testcase>
+</testsuite>
